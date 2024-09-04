@@ -53,7 +53,7 @@
 ## Líneas Base
 |Línea Base|Fecha|Descripción|
 |----------|-----|-----------|
-|BL-G12-1|2024/04/02|Entrega de TP4 - Herramientas de SCM|
+|BL-G12-1|04/09/2024|Entrega de TP4 - Herramientas de SCM|
 
 Las líneas base se identificarán con la siguiente etiqueta:
 
