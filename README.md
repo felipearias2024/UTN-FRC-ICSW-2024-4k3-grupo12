@@ -49,3 +49,14 @@
 | `<Extension>`      	| Extensión del archivo, puede ser: pdf, zip, docx, etc                                                                                                 |
 | `<NroTP>` 		    | Número de trabajo práctico con el cuál se muestra en la UV                                                                                            |
 | `<NroPresentacion>`   | Número de la presentación con el cuál se muestra en la UV                                                                                             |
+
+## Líneas Base
+|Línea Base|Fecha|Descripción|
+|----------|-----|-----------|
+|BL-G12-1|2024/04/02|Entrega de TP4 - Herramientas de SCM|
+
+Las líneas base se identificarán con la siguiente etiqueta:
+
+BL-G12-`<NroLineaBase>`
+
+`<NroLineaBase>` Sera un número entero iniciando con el 1.
